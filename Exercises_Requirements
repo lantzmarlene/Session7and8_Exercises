@@ -1,0 +1,3 @@
+1. Create a program that keeps adding the sums of the numbers inputted until a number is not put in and print the biggest sum
+2. Use a while to iterate over a string backwards
+3. Assume s is a string of lower case characters. Write a program that prints the longest substring of s in which the letters occur in alphabetical order. For example, if s = "azcboboboegghakl", then your program should print: the Longest substring in alphabetical order is: "beggh". In the case of ties, print the first substring
